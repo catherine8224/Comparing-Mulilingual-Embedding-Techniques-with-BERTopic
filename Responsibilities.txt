@@ -1,0 +1,7 @@
+Catherine
+Abstract, Introduction, Related (previous work), Discussion
+Obtaining data, running part of experiments, analysis
+
+Jianing
+Experiment, Results, Discussion
+Running experiment, analysis
